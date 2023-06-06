@@ -1,0 +1,15 @@
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\bin\Debug\net6.0\JogoCartas.cs.exe
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\bin\Debug\net6.0\JogoCartas.cs.deps.json
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\bin\Debug\net6.0\JogoCartas.cs.runtimeconfig.json
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\bin\Debug\net6.0\JogoCartas.cs.dll
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\bin\Debug\net6.0\JogoCartas.cs.pdb
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\obj\Debug\net6.0\JogoCartas.cs.csproj.AssemblyReference.cache
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\obj\Debug\net6.0\JogoCartas.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\obj\Debug\net6.0\JogoCartas.cs.AssemblyInfoInputs.cache
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\obj\Debug\net6.0\JogoCartas.cs.AssemblyInfo.cs
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\obj\Debug\net6.0\JogoCartas.cs.csproj.CoreCompileInputs.cache
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\obj\Debug\net6.0\JogoCartas.cs.dll
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\obj\Debug\net6.0\refint\JogoCartas.cs.dll
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\obj\Debug\net6.0\JogoCartas.cs.pdb
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\obj\Debug\net6.0\JogoCartas.cs.genruntimeconfig.cache
+C:\Exercicios-Faculdade\JogoCartas.cs\JogoCartas.cs\obj\Debug\net6.0\ref\JogoCartas.cs.dll
